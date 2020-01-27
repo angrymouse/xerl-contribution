@@ -9,6 +9,8 @@ module.exports=(args,message)=>{
 message.reply("pong!")
 })
 ```
-Thanks for contributing this bot! 
+Thanks for contributing this bot!
+
 Discord: https://discord.gg/S3kxatV
+
 Invite: https://discordapp.com/api/oauth2/authorize?client_id=540187298403450891&permissions=1010159041&redirect_uri=https%3A%2F%2Fdash.xerlbot.icu%2Fauth&scope=bot
